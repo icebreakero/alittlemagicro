@@ -1,4 +1,4 @@
-
+![Icon](docs/icon.png)
 # Project Title
 
 Simple overview of use/purpose.
