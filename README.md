@@ -1,5 +1,6 @@
 ![Icon](docs/icon.png)
 # Project Title
+This is a demo project
 
 Simple overview of use/purpose.
 
